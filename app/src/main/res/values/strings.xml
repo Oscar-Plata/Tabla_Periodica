@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tabla Periodica</string>
+    <string name="title_activity_tabla">TablaActivity</string>
+    <string name="title_activity_elemento">ElementoActivity</string>
+</resources>
